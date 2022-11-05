@@ -1,3 +1,4 @@
 # Laser-planet-locator
-[![Watch the video](https://github.com/vikpascual/Laser-planet-locator/blob/main/video.mp4)](https://github.com/vikpascual/Laser-planet-locator/blob/main/video.mp4)
+
+https://user-images.githubusercontent.com/44240169/200114041-18975860-aa6c-40f3-a737-1299e686950e.mp4
 
