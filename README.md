@@ -1,2 +1,3 @@
 # Laser-planet-locator
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://github.com/vikpascual/Laser-planet-locator/blob/main/video.mp4)](https://github.com/vikpascual/Laser-planet-locator/blob/main/video.mp4)
+
